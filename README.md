@@ -1,1 +1,1 @@
-Part of a MLOPS Udemy course to understand how beneficial is to use Hydra during ML experiments.
+Part of a MLOPS course to understand how beneficial is to use Hydra during ML experiments. Using Hydra module which can run and instantiate each part of the code using terminal.
